@@ -65,7 +65,6 @@
     cursor: pointer;
     margin: 0 24px;
 }
-
 .text-block-wrapper{
     margin-top: 158px;
 }
@@ -212,6 +211,9 @@
 }
 /* section-02 end  */
 /* section-03  */
+.section-03{
+    margin-bottom: 56px;
+}
 .sec-03-wrapper{
     justify-content: center;
     margin-bottom: 120px;
@@ -233,5 +235,121 @@
     font-family: 'Poppins-medium';
     font-size: 20px;
     color: #382E36;
+}
+.food-box-wrapper{
+    justify-content: space-between;
+}
+.food-firs-box{
+    max-width: 444px;
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 0px 15px 15px rgba(0, 0, 0, 0.3);
+}
+.food-bg-image{
+    background-image: url('../img/1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-clip: cover;
+    height: 302px;
+}
+.food-paragraph{
+    margin-left: 30px;
+    margin-top: 35px;
+}
+.fa-star{
+    font-size: 20px;
+    color: #FFAA00;
+}
+.food-firs-p{
+    font-family: 'Poppins-regular';
+    font-size: 16px;
+    font-weight: lighter;
+    margin-left: 8px;
+}
+.food-first-h3{
+    font-family: 'Poppins-regular';
+    margin-top: 20px;
+    font-size: 22px;
+}
+.food-first-p{
+    margin-top: 12px;
+    font-family: 'Poppins-regular';
+    color: #686868;
+    font-size: 16px;
+    font-weight: lighter;
+}
+.food-btn-first{
+    max-width: 184px;
+    width: 100%;
+    height: 40px;
+    background-color: #FFAA00;
+    margin: 30px 0;
+    border-radius: 50px;
+    font-family: 'Poppins-regular';
+    color: #fff;
+    font-size: 14px;
+    cursor: pointer;
+}
+.fa-shopping-cart{
+    font-size: 16px;
+    color: #fff;
+}
+.price{
+    color: #A80E0E;
+    font-family: 'Poppins-regular';
+    align-self: center;
+    margin-left: 12px;
+    font-size: 22px;
+}
+.section-04{
+    margin-bottom: 126px;
+}
+.food-bg-image-1{
+    background-image: url('../img/shutterstock_136631573.png');
+    height: 302px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.food-bg-image-2{
+    background-image: url('../img/background-burgers-home-top.png');
+    height: 302px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.food-bg-image-3{
+    background-image: url('../img/news_image1-min.png');
+    height: 302px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.food-bg-image-4{
+    background-image: url('../img/news_image2-min.png');
+    height: 302px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.food-bg-image-5{
+    background-image: url('../img/news_image3-min.png');
+    height: 302px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn-box-sec-4{
+    justify-content: center;
+    margin-top: 106px;
+}
+.sec-04-btn{
+    padding: 20px 60px;
+    border-radius: 50px;
+    background-color: #A80E0E;
+    font-family: 'Poppins-regular';
+    font-size: 18px;
+    color: #fff;
+    cursor: pointer;
 }
 /* section-03 end  */
