@@ -1,6 +1,6 @@
 /* base classes  */
 .container{
-    max-width: 1240px;
+    max-width: 1440px;
     width: 100%;
     margin: 0 auto;
 }
@@ -17,7 +17,6 @@
 /* header classes  */
 .bg-header{
     background-image: url('../img/Untitled-1.png');
-    height: 1080px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -35,12 +34,14 @@
 }
 .nav-li{
     margin-right: 55px;
+    
 }
 .nav-li:first-child{
     margin-left: 65px;
 }
 .nav-li:last-child{
-    margin-right: 37px;
+    margin-right: 17px;
+    width: 100px;
 }
 .nav-a{
     font-family: 'Poppins-medium';
@@ -62,8 +63,51 @@
     font-size: 30px;
     color: #fff;
     cursor: pointer;
+    margin: 0 24px;
 }
-.icons-s{
-    margin: 0 54px;
+
+.text-block-wrapper{
+    margin-top: 158px;
+}
+.text-block-title{
+    color: #fff;
+    font-family: 'Poppins-regular';
+    font-size: 90px;
+}
+.text-box{
+    max-width: 700px;
+    width: 100%;
+}
+.text-img{
+    width: 100%;
+}
+.text-block-p{
+    max-width: 375px;
+    width: 100%;
+    font-family: 'Poppins-extra-bold';
+    font-size: 30px;
+    color: #fff;
+    top: 60%;
+    left: -10%;
+    transform: translate(50%,-50%);
+}
+.btn{
+    max-width: 255px;
+    width: 100%;
+    padding: 17px;
+    border-radius: 50px;
+    background-color: #FFAA00;
+    color: #A80E0E;
+    cursor: pointer;
+    font-size: 30px;
+    font-family: 'Poppins-regular';
+    margin-top: 70px;
+    margin-left: 30px;
+    margin-bottom: 300px;
+}
+.arrow{
+    font-size: 23px;
+    color: #A80E0E;
+    margin-left: 15px;
 }
 /* header classes end  */
