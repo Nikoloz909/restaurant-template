@@ -211,3 +211,27 @@
     font-family: 'Poppins-regular';
 }
 /* section-02 end  */
+/* section-03  */
+.sec-03-wrapper{
+    justify-content: center;
+    margin-bottom: 120px;
+}
+
+.sec-03-title{
+    flex-direction: column;
+    align-items: center;
+}
+.sec-03-h3{
+    font-family: 'Poppins-regular';
+    font-size: 40px;
+    color: #A80E0E;
+}
+.sec-03-img{
+    margin: 27px;
+}
+.sec-03-p{
+    font-family: 'Poppins-medium';
+    font-size: 20px;
+    color: #382E36;
+}
+/* section-03 end  */
