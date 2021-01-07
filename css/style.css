@@ -406,3 +406,28 @@
     text-transform: capitalize;
 }
 /* section-05 end  */
+/* section-06  */
+.sec-06 {
+    justify-content: center;
+    margin-bottom: 126px;
+}
+.sec-06-title{
+    flex-direction: column;
+    align-items: center;
+}
+.sec-06-h3{
+    font-family: 'Poppins-regular';
+    color: #A80E0E;
+    font-size: 47px;
+}
+.sec-06-img{
+    margin: 30px 0;
+}
+.sec-06-p{
+    font-family: 'Poppins-regular';
+    font-weight: lighter;
+    font-size: 20px;
+    color: #382E36;
+
+}
+/* section-06 end  */
