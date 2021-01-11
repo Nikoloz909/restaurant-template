@@ -191,5 +191,61 @@
     .footre-p{
       font-size: 0.8rem;
     }
-    
+    .right-box-p{
+        max-width: 380px;
+        width: 100%;
+        font-size: 30px;
+    }
+    .right-title-p{
+        max-width: 400px;
+        width: 100%;
+        font-size: 15px;
+    }
+    .fa-cc-visa,
+    .fa-cc-discover{
+        margin: 0 10px;
+    }
+    .fa-google-pay{
+        margin-right: 10px;
+    }
+}
+@media(max-width:1125px){
+    .food-firs-box{
+        max-width: 400px;
+        width: 100%;
+        
+    }
+    .food-bg-image,
+    .food-bg-image-1,
+    .food-bg-image-2,
+    .food-bg-image-3,
+    .food-bg-image-4,
+    .food-bg-image-5{
+        height: 290px;
+    }
+    .sec-07-box-01{
+        max-width: 290px;
+        width: 100%;
+    }
+    .sec-07-img{
+        max-width:60px;
+        width: 100%;
+    }
+    .sec-07-h3{
+        max-width: 150px;
+        width: 100%;
+        font-size: 19px;
+    }
+    .sec-07-p{
+        max-width: 160px;
+        width: 100%;
+        font-size: 14px;
+    }
+    .food-first-h3{
+        font-size: 19px;
+    }
+    .food-btn-first{
+        max-width: 130px;
+        width: 100%;
+    }
 }
