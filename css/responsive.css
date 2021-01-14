@@ -1,3 +1,68 @@
+@media(max-width:1645px){
+    .sec-06-left-box{
+        max-width: 600px;
+        width: 100%;
+        margin-left: 50px;
+    }
+    .sec-06-div {
+        max-width: 400px;
+        width: 100%;
+        left: -25%;
+        margin-left: 30px;
+    }
+}
+@media(max-width:1620px){
+    .sec-06-left-box{
+        max-width: 570px;
+        width: 100%;
+        margin-left: 50px;
+    }
+    .sec-06-div {
+        max-width: 350px;
+        width: 100%;
+        left: -25%;
+        z-index: -15;
+         
+    }
+}
+@media(max-width:1600px){
+    .sec-06-left-box{
+        max-width: 550px;
+        width: 100%;
+        margin-left: 50px;
+        
+    }
+    .sec-06-div {
+        max-width: 270px;
+        width: 100%;
+        left: -20%;
+        z-index: -10;    
+    }
+}
+@media(max-width:1530px){
+    .sec-06-left-box{
+        max-width: 520px;
+        width: 100%;
+        margin-left: 50px;
+        
+    }
+    .sec-06-div {
+        max-width: 230px;
+        width: 100%;
+        left: -20%;
+        z-index: -10;   
+        height: 300px; 
+    }
+    
+}
+@media(max-width:1520px){
+    .sec-06-left-box{
+        max-width: 500px;
+        width: 100%;
+        margin-left: 80px;
+        
+    }
+}
 @media (max-width:1500px){
     .container{
         padding-left: 30px;
@@ -139,6 +204,9 @@
     .footre-p{
         font-size: 0.9rem;
     }
+    .sec-06-right-p{
+        margin: 47px 0;
+    }
 }
 @media(max-width:1235px){
     .sec-06-right-box{
@@ -208,6 +276,13 @@
     .fa-google-pay{
         margin-right: 10px;
     }
+    .inst-img-01{
+        max-width: 90px;
+        width: 100%;
+    }
+    .sec-06-right-p{
+        margin: 44px 0;
+    }
 }
 @media(max-width:1125px){
     .food-firs-box{
@@ -247,5 +322,366 @@
     .food-btn-first{
         max-width: 130px;
         width: 100%;
+    }
+    .foot-h3{
+        font-size: 17px;
+    }
+    .inst-01{
+        font-size: 17px;
+    }
+    .useful-li,
+    .foot-ul{
+        font-size: 14px;
+    }
+    .useful-none{
+        max-width: 180px;
+        width: 100%;
+    }
+    .foo-img-01{
+        max-width: 130px;
+        width: 100%;
+    }
+    .footer-01{
+        max-width: 480px;
+        width: 100%;
+    }
+    .inst-img-01{
+        max-width: 90px;
+        width: 100%;
+    }
+    .inst-img-01{
+        margin-right: 16px;
+    }
+    .sec-06-right-p{
+        margin: 37px 0;
+    }
+}
+@media(max-width:1080px){
+    .social-icon,
+    .navbar-list{
+        height: 70px;
+    }
+   .logo-img{
+       max-width: 180px;
+       width: 100%;
+   }
+   .text-block-title{
+       font-size: 60px;
+   }
+   .text-block-p{
+       max-width: 340px;
+       width: 100%;
+       font-size: 27px;
+       line-height: initial;
+   }
+   .text-box {
+       max-width: 650px;
+       width: 100%;
+   }
+   .btn,
+   .arrow{
+       font-size: 20px;
+   }
+   .sec-01-h3{
+       font-size: 45px;
+   }
+   .sec-01-p{
+       font-size: 18px;
+   }
+   .first-box,
+   .second-box,
+   .therd-box,
+   .for-box,
+   .five-box {
+       max-width: 230px;
+       width: 100%;
+   }
+   .fa-hamburger,
+   .fa-pizza-slice,
+   .fa-ice-cream,
+   .fa-hotdog,
+   .fa-hotdog,
+   .fa-bacon{
+       font-size: 80px;
+   }
+   .therd-box,
+   .five-box {
+      padding: 0 30px;
+   }
+   .for-box {
+       padding-left: 20px;
+   }
+   .right-box-p{
+       max-width: 330px;
+       width: 100%;
+       font-size: 27px;
+       top: 40%;
+   }
+   .right-title{
+       max-width: 420px;
+       width: 100%;
+   }
+   .right-title-p{
+       font-size: 14px;
+       line-height: 16px;
+   }
+   .left-bloc-walpper,
+   .sec-02-img{
+       max-width: 600px;
+       width: 100%;
+   }
+   .sec-03-h3{
+       font-size: 35px;
+   }
+   .sec-03-p{
+       font-size: 1rem;
+   }
+   .food-firs-box{
+       max-width: 360px;
+       width: 100%;
+   }
+   .food-bg-image,
+   .food-bg-image-1,
+   .food-bg-image-2,
+   .food-bg-image-3,
+   .food-bg-image-4,
+   .food-bg-image-5{
+       height: 270px;
+   }
+   .food-first-h3{
+       font-size: 14px;
+   }
+   .food-btn-first{
+       max-width: 110px;
+       width: 100%;
+       font-size: 12px;
+       
+   }
+   .fa-shopping-cart{
+       font-size: 12px;
+   }
+   .price{
+       font-size: 16px;
+   }
+   .for-inst{
+       max-width: 320px;
+       width: 100%;
+   }
+   .inst-img-01{
+       margin-right: 17px;
+   }
+   .footer-01{
+       max-width: 450px;
+       width: 100%;
+   }
+   .fa-cc-amex,
+   .fa-cc-visa,
+   .fa-cc-mastercard,
+   .fa-cc-discover,
+   .fa-google-pay,
+   .fa-apple-pay{
+       font-size: 35px;
+   }
+   .footre-p{
+       font-size: 0.7rem;
+   }
+   .sec-06-h3{
+       font-size: 40px;
+   }
+   .sec-06-right-p{
+       margin: 34px 0;
+   }
+}
+@media (max-width:1060px){
+    .food-firs-box{
+        max-width: 340px;
+        width: 100%;
+    }
+    .food-bg-image,
+    .food-bg-image-1,
+    .food-bg-image-2,
+    .food-bg-image-3,
+    .food-bg-image-4,
+    .food-bg-image-5{
+        height: 250px;
+    }
+    .sec-07-box-01{
+        max-width: 260px;
+        width: 100%;
+    }
+    .sec-07-h3{
+        font-size: 19px;
+    }
+    .sec-07-p{
+        max-width: 140px;
+        width: 100%;
+        font-size: 12px;
+    }
+    .sec-07-img{
+        max-width: 50px;
+        width: 100%;
+    }
+    .inst-img-01{
+        max-width: 80px;
+        width: 100%;
+        margin-right: 17px;
+    }
+    .sec-06-right-p{
+        margin: 30px 0 ;
+        font-size: 16px;
+    }
+}
+@media(max-width:1030px){
+    .for-inst,
+    .inst-img {
+        max-width: 300px;
+        width: 100%;
+    }
+    .inst-img-01{
+        max-width: 75px;
+        width: 100%;
+        margin-right: 18px;
+    }
+    .useful-none{
+        max-width: 160px;
+        width: 100%;
+    }
+    .useful-li,
+    .foot-li{
+        font-size: 12px;
+    }
+    .foo-img-01{
+        max-width: 120px;
+        width: 100%;
+    }
+    .foot-box-02{
+        margin: 0 20px;
+    }
+    .sec-08-tel{
+        font-size: 35px;
+    }
+    .fa-clock,
+    .fa-map-marker-alt{
+        font-size: 55px;
+    }
+    .sec-08-p{
+        font-size: 15px;
+    }
+    .sec-08-p-01{
+        font-size: 16px;
+        margin-left: 11px;
+    }
+    .social-icons {
+        max-width: 170px;
+        width: 100%;
+        margin-left: 10px;
+    }
+    .fa-facebook-square,
+    .fa-twitter,
+    .fa-instagram{
+        font-size: 40px;
+    }
+    .sec-06-right-p{
+        margin: 25px 0;
+        font-size: 14px;
+    }
+
+}
+@media(max-width:990px){
+    .text-block-title{
+        font-size: 55px;
+    }
+    .arrow{
+        margin-left: 10px;
+    }
+    .text-box{
+        max-width: 550px;
+        width: 100%;
+    }
+    .text-block-p {
+        max-width: 300px;
+        width: 100%;
+        top: 60%;
+        left: -15%;
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .sec-01-h3{
+        font-size: 40px;
+    }
+    .sec-01-p{
+        font-size: 16px;
+    }
+    .six-box {
+        margin: 0px;
+    }
+    .second-box {
+       margin: 0 30px;
+    }
+    .therd-img{
+        padding: 0px 30px;
+    }
+    .right-block {
+        max-width: 600px;
+        width: 100%;
+    }
+    .right-box-p{
+        max-width: 300px;
+        width: 100%;
+        font-size: 25px;
+    }
+    .left-bloc-walpper{
+        max-width: 550px;
+        width: 100%;
+    }
+    .right-title-p{
+        max-width: 350px;
+        width: 100%;
+        font-size: 13px;
+    }
+    .sec-03-h3{
+        font-size: 30px;
+    }
+    .sec-03-p{
+        font-size: 0.9rem;
+    }
+    .food-firs-box{
+        max-width: 300px;
+        width: 100%;
+    }
+    .food-bg-image,
+    .food-bg-image-1,
+    .food-bg-image-2,
+    .food-bg-image-3,
+    .food-bg-image-4,
+    .food-bg-image-5{
+        height: 220px;
+    }
+    .food-first-p{
+        font-size: 14px;
+    }
+    .food-btn-first{
+        max-width: 100px;
+        width: 100%;
+        font-size: 10px;
+    }
+    .fa-shopping-cart{
+        font-size: 10px;
+    }
+    .price{
+        font-size: 14px;
+    }
+    .sec-04-btn{
+        padding: 20px 50px;
+    }
+    .sec-06-h3{
+        font-size: 35px;
+    }
+    .sec-06-img{
+        max-width: 400px;
+        width: 100%;
+    }
+    .sec-06-p{
+        font-size: 17px;
     }
 }
