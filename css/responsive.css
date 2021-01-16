@@ -804,6 +804,14 @@
          margin-right: 0px;
          
     }
+    .food-bg-image-1,
+    .food-bg-image,
+    .food-bg-image-2,
+    .food-bg-image-3,
+    .food-bg-image-4,
+    .food-bg-image-5{
+        height: 302px;
+    }
     .food-firs-p,
     .food-first-h3,
     .price{
@@ -905,8 +913,7 @@
    .for-inst{
        margin-top: 40px;
        margin-left: 100px;
-
-       max-width: 400px;
+       max-width: 255px;
        width: 100%;
    }
    .inst-01,
@@ -925,6 +932,7 @@
    .useful-none{
        max-width: 350px;
        width: 100%;
+       margin-top: 120px;
    }
    .footer-01{
        max-width: 500px;
@@ -941,4 +949,140 @@
    .useful-li{
        font-size: 1rem;
    }
+   .useful-li{
+       padding-bottom: 15px;
+   }
+}
+@media(max-width:875px){
+    .footer-01{
+        max-width: 450px;
+    }
+    .foo-img-01{
+        max-width: 150px;
+        width: 100%;
+    }
+    .footre-p{
+        font-size: 0.8rem;
+    }
+    .inst-img-01{
+        max-width: 70px;
+        width: 100%;
+        margin-right: 15px;
+    }
+    .right-box-p {
+        top: 36%;
+        left: -17%;
+    }
+    .right-title-p{
+        max-width: 300px;
+        width: 100%;
+        font-size: 11px;
+    }
+    .text-block-p{
+        max-width: 250px;
+        width: 100%;
+        font-size: 20px;
+    }
+    .text-block-title{
+        font-size: 42px;
+    }
+    .sec-06-right-box{
+        max-width: 540px;
+        width: 100%;
+        margin-top: 30px;
+    
+    }
+    .sec-06-image{
+        max-width: 50px;
+        width: 100%;
+    }
+    .sec-06-right-p{
+        margin: 25px 0;
+        font-size: 12px;
+    }
+    .spna-01-h3{
+        font-size: 18px;
+    }
+}
+@media(max-width:830px){
+    .first-box,
+    .second-box ,
+    .therd-box,
+    .for-box,
+    .five-box ,
+    .six-box {
+        max-width: 200px;
+        width: 100%;
+    }
+    .right-box-p{
+        max-width: 230px;
+        width: 100%;
+        top: 34%;
+        font-size: 18px;
+    }
+    .left-bloc-walpper{
+        max-width: 450px;
+        width: 100%;
+    }
+    .sec-03-h3{
+        font-size: 25px;
+    }
+    .sec-03-img{
+        max-width: 300px;
+        width: 100%;
+    }
+    .food-firs-box{
+        max-width: 320px;
+        width: 100%;
+    }
+    .food-bg-image,
+    .food-bg-image-1,
+    .food-bg-image-2,
+    .food-bg-image-3,
+    .food-bg-image-4,
+    .food-bg-image-5{
+        height: 280px;
+    }
+    .food-btn-first{
+        max-width: 130px;
+        font-size: 13px;
+    }
+    .price{
+        font-size: 18px;
+    }
+    .footer-01{
+        max-width: 400px;
+        width: 100%;
+    }
+    .foo-img-01{
+        max-width: 130px;
+        width: 100%;
+    }
+    .credit-card {
+        max-width: 300px;
+        width: 100%;
+    }
+    .fa-cc-amex,
+    .fa-cc-visa,
+    .fa-cc-mastercard,
+    .fa-cc-discover,
+    .fa-google-pay,
+    .fa-apple-pay,{
+        font-size: 30px;
+    }
+    .sec-08-tel{
+        font-size: 30px;
+    }
+    .fa-clock,
+    .fa-map-marker-alt{
+        font-size: 50px;
+    }
+    .social-icons{
+        max-width: 150px;
+        width: 100%;
+        margin-top: 25px;
+    } 
+}
+@media(max-width:780px){
+    
 }
