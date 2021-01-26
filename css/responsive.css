@@ -1447,7 +1447,118 @@
     .useful-none{
         max-width: 270px;
     }
+    .sec-06-p{
+        font-size: 16px;
+    }
 }
 @media(max-width:610px){
+    .navbar-list,
+    .social-icon {
+        height: 45px;
+    }
+    .icons,
+    .icons-s{
+        font-size: 20px;
+    }
+    .fa-bars{
+        font-size: 25px;
+    }
+    .logo-img{
+        max-width: 110px;
+        width: 100%;
+    }
+    .text-block-title{
+        font-size: 33px;
+    }
+    .text-box {
+        max-width: 370px;
+        width: 100%;
+    }
+    .text-block-p {
+        max-width: 200px;
+        width: 100%;
+        font-size: 16px;
+    }
+    .btn{
+        max-width: 170px;
+        width: 100%;
+    }
+    .food-firs-box{
+        max-width: 240px;
+    }
+    .food-bg-image,
+    .food-bg-image-1,
+    .food-bg-image-2,
+    .food-bg-image-3,
+    .food-bg-image-4,
+    .food-bg-image-5{
+        height: 170px;
+    }
+    .fa-star{
+        font-size: 17px;
+    }
+    .food-firs-p,
+    .food-first-h3{
+        font-size: 15px;
+    }
+    .food-first-p{
+        font-size: 11px;
+    }
+    .food-btn-first{
+        max-width: 100px;
+        font-size: 11px;
+    }
+    .fa-shopping-cart{
+        font-size: 11px;
+    }
+    .price{
+        font-size: 15px;
+    }
+    .sec-06-left-box {
+        max-width: 430px;
+    }
+    .sec-06-div{
+        max-width: 220px;
+        top: 120%;
+    }
+    .footer-01{
+        max-width: 270px;
+    }
+    .credit-card {
+        max-width: 230px;
+    }
+    .footre-p{
+        font-size: 0.7rem;
+    }
+    .foot-h3,
+    .inst-01{
+        font-size: 17px;
+    }
+    .foot-li,
+    .useful-li{
+        font-size: 0.8rem;
+    }
+    .useful-none{
+        max-width: 240px;
+    }
+    .fa-cc-amex,
+    .fa-cc-visa,
+    .fa-cc-mastercard,
+    .fa-cc-discover,
+    .fa-google-pay,
+    .fa-apple-pay{
+        font-size: 25px;
+    }
+    .sec-06-right-p{
+        font-size: 17px;
+    }
+    .right-title-p{
+        max-width: 230px;
+    }
+    .sec-06-p{
+        font-size: 15px;
+    }
+}
+@media(max-width:580px){
     
 }
