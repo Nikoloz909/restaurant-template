@@ -232,6 +232,7 @@
     font-size: 40px;
     font-family: 'Poppins-regular';
     color: #fff;
+    animation: step-start;
 }
 .right-title,
 .right-title-p{
